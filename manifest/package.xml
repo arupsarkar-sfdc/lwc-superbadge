@@ -17,11 +17,22 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>Friend_Ships</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
         <members>Boat__c</members>
         <members>BoatType__c</members>
         <members>BoatReview__c</members>
         <name>CustomObject</name>
     </types>    
+    <types>
+        <members>Boat_Record_Page</members>
+        <members>Friend_Ships</members>
+        <members>Home_Page_Default</members>
+        <members>Working_with_Data</members>
+        <name>FlexiPage</name>
+    </types>
     <types>
         <members>accountCreator</members>
         <members>accountList</members>
