@@ -80,6 +80,10 @@
         <name>LightningMessageChannel</name>
     </types>
     <types>
+        <members>lwc_superbadge</members>
+        <name>PermissionSet</name>
+    </types>    
+    <types>
         <members>boats</members>
         <members>fivestar</members>
         <members>Houseboats</members>
