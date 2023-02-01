@@ -21,6 +21,18 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Account.Active__c</members>
+        <members>Account.CustomerPriority__c</members>
+        <members>Account.NumberofLocations__c</members>
+        <members>Account.SLA__c</members>
+        <members>Account.SLAExpirationDate__c</members>
+        <members>Account.SLASerialNumber__c</members>
+        <members>Account.UpsellOpportunity__c</members>
+        <members>Contact.Languages__c</members>
+        <members>Contact.Level__c</members>
+        <name>CustomField</types>
+    </types>
+    <types>
         <members>Add_Review</members>
         <members>Details</members>
         <members>Full_Details</members>
