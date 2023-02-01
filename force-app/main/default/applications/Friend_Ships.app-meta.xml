@@ -13,5 +13,5 @@
     <navType>Standard</navType>
     <tabs>Friend_Ships</tabs>
     <uiType>Lightning</uiType>
-    <!--<utilityBar>Friend_Ships_UtilityBar</utilityBar>-->
+    <utilityBar>Friend_Ships_UtilityBar</utilityBar>
 </CustomApplication>

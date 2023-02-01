@@ -27,7 +27,14 @@
         <members>Please_select_a_boat</members>
         <members>Reviews</members>
         <name>CustomLabel</name>
-    </types>    
+    </types>
+
+    <types>
+        <members>Friend_Ships</members>
+        <members>Working_with_Data</members>
+        <name>CustomTab</name>
+    </types>       
+    
     <types>
         <members>Boat__c</members>
         <members>BoatType__c</members>
