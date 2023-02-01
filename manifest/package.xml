@@ -21,6 +21,14 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Add_Review</members>
+        <members>Details</members>
+        <members>Full_Details</members>
+        <members>Please_select_a_boat</members>
+        <members>Reviews</members>
+        <name>CustomLabel</name>
+    </types>    
+    <types>
         <members>Boat__c</members>
         <members>BoatType__c</members>
         <members>BoatReview__c</members>
